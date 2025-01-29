@@ -16,15 +16,15 @@ C) gamma (Scale, Auto, 0.01, 0.001)
 6. Evaluate Performance - Compare accuracy and classification reports before and after tuning.
 
 Results - Accuracy:
-Baseline: 97.5 % 
-Tuned SVM: 99.4 %
-Improvement: 1.9 %
+- Baseline: 97.5 % 
+- Tuned SVM: 99.4 %
+- Improvement: 1.9 %
 
 Dependencies:
-Python 3.x
-NumPy
-Pandas
-Scikit-Learn
+- Python 3.x
+- NumPy
+- Pandas
+- Scikit-Learn
 
 Install Scikit-Learn dependencies using:
 pip install numpy pandas scikit-learn
@@ -32,8 +32,8 @@ pip install numpy pandas scikit-learn
 Running the Code:
 To run the project locally:
 1. Clone the repository:
-git clone https://github.com/Oliver-VG/Hyperparameter-Tuning-MNIST.git
-cd svm-hyperparameter-tuning
+- git clone https://github.com/Oliver-VG/Hyperparameter-Tuning-MNIST.git
+- cd svm-hyperparameter-tuning
 2. Run the Jupyter Notebook:
 jupyter notebook
 3. Open the notebook and execute the cell.
