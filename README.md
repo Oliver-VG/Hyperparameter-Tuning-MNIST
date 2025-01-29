@@ -1,5 +1,6 @@
 # Hyperparameter-Tuning-MNIST
 Hyperparameter Tuning for SVC on MNIST Digits dataset
+
 This repository demonstrates Support Vector Machine (SVM) hyperparameter tuning using GridSearchCV on the Digits dataset from sklearn.datasets. The goal is to compare a baseline model with a tuned model and observe improvements in classification performance.
 
 Overview:
